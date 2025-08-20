@@ -138,8 +138,8 @@ $$
 
 > <mark style="color:red;">**Ahora es tu turno**</mark>
 
-{% content-ref url="ejercicio-una-variable/" %}
-[ejercicio-una-variable](ejercicio-una-variable/)
+{% content-ref url="ejercicio-1-una-variable/" %}
+[ejercicio-1-una-variable](ejercicio-1-una-variable/)
 {% endcontent-ref %}
 
 ## Características numéricas
