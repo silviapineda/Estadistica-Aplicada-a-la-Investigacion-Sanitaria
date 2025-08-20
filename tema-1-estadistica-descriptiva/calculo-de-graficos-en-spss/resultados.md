@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Resultados
 
 Para hacer los gráficos usaremos siempre la opción de&#x20;

@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Resultados
 
 1.  Analizar/correlacionar/bivariadas

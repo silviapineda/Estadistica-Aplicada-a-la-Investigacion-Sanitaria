@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Resultados: Una variable
 
 <figure><img src="../../../.gitbook/assets/image (111).png" alt="" width="563"><figcaption></figcaption></figure>
