@@ -1,8 +1,6 @@
 # Ejercicio
 
-Con el fichero SatisfaccionPacientes.sav
-
-{% file src="../.gitbook/assets/SatisfaccionPacientes.sav" %}
+Con el fichero <mark style="color:orange;">**SatisfaccionPacientes.sav**</mark>
 
 Realiza los siguientes pasos:
 
